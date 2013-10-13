@@ -19,10 +19,5 @@
     "autoload": {
         "psr-0": { "LCStudios\\MetaCommandBundle": "" }
     },
-    "target-dir": "LCStudios/MetaCommandBundle",
-    "extra": {
-        "branch-alias": {
-            "dev-master": "master"
-        }
-    }
+    "target-dir": "LCStudios/MetaCommandBundle"
 }
