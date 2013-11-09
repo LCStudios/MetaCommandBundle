@@ -36,5 +36,5 @@ abstract class MetaCommand extends Command
         return $returnCode;
     }
 
-    abstract protected function getCommandArray(InputInterface $input);
+    abstract public function getCommandArray(InputInterface $input);
 }
